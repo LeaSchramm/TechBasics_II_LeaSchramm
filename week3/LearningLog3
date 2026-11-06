@@ -1,0 +1,29 @@
+3rd session										27/10/26
+Software:
+analogWrite() – PWM
+-	Pulse-Width Modulation, is a digital method of controlling
+-	analog power by rapidly switching a signal on and off.
+-	0–255 : 0v - 5v (8 bits)
+-	It is a widely used techniq ue in dimming LEDs, controlling motor speed, etc
+-	
+INPUT_PULLUP
+-	Ask Arduino to use internal pull-up resistors (resistors thatconnect to power internally)
+-	Prevents Floating Pins: Without a pull-up or pull-down resistor, an unconnected pin "floats," picking up electrical noise and returning random, unstable HIGH or LOW values.
+
+Oscillocope - device that measures voltage and displays it visually 
+Fade in and fade out 
+Hardware:
+Tilt Switch 
+-	TiltSensor connecten:
+
+
+
+
+
+Potentiometer: 
+-	Most common use case: Volume adjustment
+-	Adjustable resistors
+-	Linear 
+-	Has 3 Pins and a wiper 
+
+
