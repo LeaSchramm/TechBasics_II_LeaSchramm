@@ -27,3 +27,4 @@ Potentiometer:
 -	Has 3 Pins and a wiper 
 
 
+<img width="496" height="585" alt="image" src="https://github.com/user-attachments/assets/39cc3a79-f13b-4543-9e16-74764fe26bfa" />
